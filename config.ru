@@ -290,7 +290,7 @@ $ git push</pre>
 
                 <h2>Development Resources</h2>
                   <ul>
-                    <li><a href="http://docs.okd.io/latest/welcome/index.html">Binata Nayak Documentation</a></li>
+                    <li><a href="http://docs.okd.io/latest/welcome/index.html">Kumar Haribaba Documentation</a></li>
                     <li><a href="https://github.com/openshift/origin">Openshift Origin GitHub</a></li>
                     <li><a href="https://github.com/openshift/source-to-image">Source To Image GitHub</a></li>
                     <li><a href="http://docs.okd.io/latest/using_images/s2i_images/ruby.html">Getting Started with Ruby on OpenShift</a></li>
